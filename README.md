@@ -11,7 +11,7 @@ Start PyQt application by running:
 ```
 python main.py
 ```
-To Convert PyQt application into .exe run:
+To Convert PyQt application into .exe, run:
 ```
 pyinstaller main.spec
 ```
